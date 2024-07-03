@@ -1,6 +1,6 @@
 ## Olá! 👋 Sou o Lucas Ferreira Da Silva</br></br>
 
-🔭 Atualmente graduado em Análise e Desenvolvimento de Sistemas - (08-2021 - 06-2024)</br>
+🔭 Atualmente Graduado em Análise e Desenvolvimento de Sistemas - (08-2021 - 06-2024)</br>
 🌱 Aprimorando minhas habilidades em Python e Java, design de APIs RESTful e modelagem de dados.</br>
 👯 Procuro colaborar em projetos que envolvam desenvolvimento back-end, front-end, APIs e bancos de dados.</br>
 🤔 Buscando aprender mais sobre microsserviços, arquitetura de software e boas práticas de desenvolvimento.</br>
