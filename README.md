@@ -7,3 +7,5 @@
 💬 Pergunte-me sobre FastAPI, SQLAlchemy, PostgreSQL, Python, Java, Spring Boot ou qualquer coisa relacionada ao desenvolvimento de APIs, front-end ou back-end.</br>
 📫 Como me encontrar: https://www.linkedin.com/in/lucas-ferreira-55053412a/</br>
 ⚡ Curiosidade: Sou apaixonado por tecnologia e esportes como andar de bicicleta, musculação ou qualquer coisa que mova o esqueleto rs!</br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasgyn94)](https://github.com/Lucasgyn94/github-readme-stats)
