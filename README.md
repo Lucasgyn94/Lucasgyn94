@@ -12,6 +12,6 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Lucasgyn94&show_icons=true&theme=dark" width="410" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasgyn94&layout=compact)](https://github.com/Lucasgyn94/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasgyn94&layout=compact" width="410" />
 
 </div>
