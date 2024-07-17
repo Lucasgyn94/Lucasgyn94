@@ -5,7 +5,7 @@
 👯 Procuro colaborar em projetos que envolvam desenvolvimento back-end, front-end, APIs e bancos de dados.</br>
 🤔 Buscando aprender mais sobre microsserviços, arquitetura de software e boas práticas de desenvolvimento.</br>
 💬 Pergunte-me sobre FastAPI, SQLAlchemy, PostgreSQL, Python, Java, Spring Boot ou qualquer coisa relacionada ao desenvolvimento de APIs, front-end ou back-end.</br>
-📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/lucas-ferreira-55053412a/)</br>
+📫 Como me encontrar: <a href="https://www.linkedin.com/in/lucas-ferreira-55053412a/" target="_blank">LinkedIn</a></br>
 ⚡ Curiosidade: Sou apaixonado por tecnologia e esportes como andar de bicicleta, musculação ou qualquer coisa que mova o esqueleto rs!</br>
 </br>
 
