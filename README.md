@@ -1,16 +1,30 @@
-## Olá! 👋 Sou o Lucas Ferreira Da Silva</br></br>
+# Olá, me chamo Lucas Ferreira! 👋
 
-🔭 Atualmente Graduado em Análise e Desenvolvimento de Sistemas - (08-2021 - 06-2024)</br>
-🌱 Aprimorando minhas habilidades .NET, design de APIs RESTful e modelagem de dados e Front-End com HTML, CSS e UX/UI Designer.</br>
-👯 Procuro colaborar em projetos que envolvam desenvolvimento back-end, front-end, APIs e bancos de dados.</br>
-🤔 Buscando aprender mais sobre microsserviços, arquitetura de software e boas práticas de desenvolvimento.</br>
-📫 Como me encontrar: <a href="https://www.linkedin.com/in/lucas-ferreira-55053412a/" target="_blank">LinkedIn</a></br>
-⚡ Curiosidade: Sou apaixonado por tecnologia e esportes como andar de bicicleta, musculação ou qualquer coisa que mova o esqueleto rs!</br>
-</br>
+ Desenvolvedor de Software | Graduado em Análise e Desenvolvimento de Sistemas
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+---
 
-<img src="https://github-stats-extended.vercel.app/api?username=Lucasgyn94&show_icons=true&theme=dark" width="500" height="100vh" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lucasgyn94&layout=compact" width="500" height="100vh"/>
+###  Sobre mim
+-  **Formação:** Análise e Desenvolvimento de Sistemas (2021 - 2024)
+- 🚀 **Foco atual:** Aprimorando conhecimentos em **.NET**, **Java / Spring Boot**, desenvolvimento de **APIs RESTful**, modelagem de dados e **Front-End** (HTML, CSS, JavaScript, UX/UI).
+-  **Interesses:** Arquitetura de software, microsserviços, boas práticas de desenvolvimento e resolução de problemas complexos.
+-  **Hobbies:** Apaixonado por tecnologia e esportes (pedalar, musculação e atividades ao ar livre).
 
+---
+
+### 🌐 Conecte-se comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucas-ferreira-55053412a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Lucasgyn94&show_icons=true&theme=dark&hide_border=true" height="170" alt="Estatísticas do GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lucasgyn94&layout=compact&theme=dark&hide_border=true" height="170" alt="Linguagens mais usadas" />
 </div>
